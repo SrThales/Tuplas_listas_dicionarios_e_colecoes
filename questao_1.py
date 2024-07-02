@@ -8,7 +8,8 @@ total = 0
 
 for i in range (0, 5):
     print('Digite o número de posição', i, ':')
-    l1[i] = int(input('')
+    l1[i] = int(input(''))
+    
 
 print('Os inteiros na lista são:', l1)
 
